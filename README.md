@@ -201,3 +201,20 @@
 - [linux内核源码3.1中断和网络](https://blog.csdn.net/tan1666/article/details/122387289?spm=1001.2014.3001.5502)
 - [linux 内核实战](https://blog.csdn.net/tan1666/article/details/122510526?spm=1001.2014.3001.5502)
 - [手动编译更换linux内核](https://blog.csdn.net/tan1666/article/details/122420012?spm=1001.2014.3001.5502)
+
+
+## 关于写作计划
+
+![image](https://user-images.githubusercontent.com/87457873/150632935-b9a327a5-2a79-4715-bc44-814c35f7e554.png)
+
+
+## 联系专栏
+
+#### 零声教育，专注于c/c++Linux后台服务器开发架构技术学习提升。<br>
+每天晚上8点【免费技术直播】：[分享Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等技术内容，立即学习。](https://ke.qq.com/course/417774?flowToken=1037711)
+
+#### 关注微信公众号【后台服务架构师】——【联系我们】，获取更多学习资料！
+
+<img width="65%" height="65%" src="https://user-images.githubusercontent.com/87457873/130796999-03af3f54-3719-47b4-8e41-2e762ab1c68b.png"/>
+
+
