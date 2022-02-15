@@ -1,6 +1,4 @@
-# students_blog_collection
-（已更新184篇）学员学习过程，课程总结的文章集锦，包含linux c/c++服务器，音视频，内核，dpdk，golang
-
+# ✍（已原创250篇）学员学习过程，课程总结的文章集锦，包含linux c/c++服务器，音视频，内核，dpdk，golang
 
 ## 第一期
 
@@ -201,6 +199,56 @@
 - [linux内核源码3.1中断和网络](https://blog.csdn.net/tan1666/article/details/122387289?spm=1001.2014.3001.5502)
 - [linux 内核实战](https://blog.csdn.net/tan1666/article/details/122510526?spm=1001.2014.3001.5502)
 - [手动编译更换linux内核](https://blog.csdn.net/tan1666/article/details/122420012?spm=1001.2014.3001.5502)
+
+## 第五期
+
+- [【obs-studio开源项目从入门到放弃】windows 窗口采集和桌面采集的解决方案](https://blog.csdn.net/qq_33844311/article/details/122560396?spm=1001.2014.3001.5501)
+- [【webrtc】vs2019 下载编译 WebRTC 最新源码](https://blog.csdn.net/qq_33844311/article/details/122680757?spm=1001.2014.3001.5501)
+- [【webrtc】demo 测试 peerconnection_server 和 peerconnection_client](https://blog.csdn.net/qq_33844311/article/details/122743509?spm=1001.2014.3001.5501)
+- [Nginx的配置指令和handler模块概述](https://blog.csdn.net/u014183456/article/details/122657263?spm=1001.2014.3001.5501)
+- [Nginx系列五: handler 模块](https://blog.csdn.net/u014183456/article/details/122725181?spm=1001.2014.3001.5501)
+- [定时器方案（一）之红黑树与最小堆 详解](https://blog.csdn.net/asdaqqwc/article/details/122609561?spm=1001.2014.3001.5502)
+- [定时器方案（二）之时间轮原理 详解](https://blog.csdn.net/asdaqqwc/article/details/122607888?spm=1001.2014.3001.5502)
+- [手写死锁检测组件](https://blog.csdn.net/asdaqqwc/article/details/122673198?spm=1001.2014.3001.5502)
+- [FFplay 工程源码分析-1](https://blog.csdn.net/u012117034/article/details/122646423?spm=1001.2014.3001.5501)
+- [FFplay 工程源码分析-2](https://blog.csdn.net/u012117034/article/details/122646438?spm=1001.2014.3001.5501)
+- [FFplay 工程源码分析-3](https://blog.csdn.net/u012117034/article/details/122646469?spm=1001.2014.3001.5501)
+- [FFplay 工程源码分析-4](https://blog.csdn.net/u012117034/article/details/122671908?spm=1001.2014.3001.5501)
+- [mysql缓存方案](https://blog.csdn.net/congchp/article/details/122615658?spm=1001.2014.3001.5501)
+- [redis事务与异步请求](https://blog.csdn.net/congchp/article/details/122623735?spm=1001.2014.3001.5501)
+- [定时器原理与实现](https://blog.csdn.net/congchp/article/details/122624194?spm=1001.2014.3001.5501)
+- [redis持久化与主从复制](https://blog.csdn.net/congchp/article/details/122700079?spm=1001.2014.3001.5501)
+- [CPU亲缘性](https://blog.csdn.net/congchp/article/details/122701611?spm=1001.2014.3001.5501)
+- [异步请求实现](https://blog.csdn.net/congchp/article/details/122624477?spm=1001.2014.3001.5501)
+- [redis存储结构与数据模型](https://blog.csdn.net/congchp/article/details/122740063?spm=1001.2014.3001.5501)
+- [redis io多线程](https://blog.csdn.net/congchp/article/details/122740115?spm=1001.2014.3001.5501)
+- [Docker镜像编译与Docker-Compose部署与编排](https://blog.csdn.net/qq_46118239/article/details/122731594?spm=1001.2014.3001.5501)
+- [DPDK 的虚拟交换机框架 OvS 的基础知识](https://blog.csdn.net/qq_46118239/article/details/122746868?spm=1001.2014.3001.5501)
+- [K8S核心组件介绍](https://blog.csdn.net/qq_46118239/article/details/122751173?spm=1001.2014.3001.5501)
+- [linux设备驱动](https://blog.csdn.net/tan1666/article/details/122611343?spm=1001.2014.3001.5501)
+- [Linux设备驱动开发详解](https://blog.csdn.net/tan1666/article/details/122611970?spm=1001.2014.3001.5501)
+- [Linux内核设计与实现](https://blog.csdn.net/tan1666/article/details/122630582?spm=1001.2014.3001.5501)
+- [linux内核源码实战_理解中断和网络](https://blog.csdn.net/tan1666/article/details/122637907?spm=1001.2014.3001.5501)
+- [linux内核源码实战_理解设备驱动和文件系统](https://blog.csdn.net/tan1666/article/details/122637892?spm=1001.2014.3001.5501)
+- [linux内核源码实战_理解进程管理和内存管理](https://blog.csdn.net/tan1666/article/details/122637865?spm=1001.2014.3001.5501)
+- [系统工程师应具备的技能](https://blog.csdn.net/tan1666/article/details/122710167?spm=1001.2014.3001.5502)
+- [带你了解BoostLog库，一篇boost库的总结](https://blog.csdn.net/sinat_28294665/article/details/122612096?spm=1001.2014.3001.5502)
+- [带你了解gLog库，一篇gLog库的总结](https://blog.csdn.net/sinat_28294665/article/details/122612242?spm=1001.2014.3001.5502)
+- [带你了解log4qt日志库，一篇log4qt日志库的总结](https://blog.csdn.net/sinat_28294665/article/details/122612309?spm=1001.2014.3001.5502)
+- [带你了解log4cpp日志库，一篇log4cpp日志库的总结](https://blog.csdn.net/sinat_28294665/article/details/122612383?spm=1001.2014.3001.5502)
+- [linux实用细节命令1，简单10条。](https://blog.csdn.net/sinat_28294665/article/details/122612868?spm=1001.2014.3001.5502)
+- [编程不可违背的9条原则，甚至会影响你的一生](https://blog.csdn.net/sinat_28294665/article/details/122613488?spm=1001.2014.3001.5502)
+- [Linux网络编程基础1：大小端 && 存储socket 地址](https://blog.csdn.net/sinat_28294665/article/details/122631160?spm=1001.2014.3001.5502)
+- [Linux网络编程基础2：socket，bind，listen，accept，close函数](https://blog.csdn.net/sinat_28294665/article/details/122634143?spm=1001.2014.3001.5502)
+- [linux实用细节命令2，grep与正则表达式(Regular Expression)](https://blog.csdn.net/sinat_28294665/article/details/122640510?spm=1001.2014.3001.5502)
+- [Linux实用细节命令3，sed非交互式流式编辑器增删改查](https://blog.csdn.net/sinat_28294665/article/details/122645736?spm=1001.2014.3001.5502)
+- [Linux实用细节命令4，awk数据分析与过滤统计](https://blog.csdn.net/sinat_28294665/article/details/122649617?spm=1001.2014.3001.5502)
+- [Linux服务器开发,系统运行时参数命令:CPU、内存、磁盘、网络](https://blog.csdn.net/sinat_28294665/article/details/122659439?spm=1001.2014.3001.5502)
+- [Linux服务器开发,创建型设计模式与结构性设计模式](https://blog.csdn.net/sinat_28294665/article/details/122710045?spm=1001.2014.3001.5501)
+- [Linux网络编程基础3：数据读写](https://blog.csdn.net/sinat_28294665/article/details/122710441?spm=1001.2014.3001.5501)
+- [Golang/云原生/Docker/DevOps/K8s,GO语言基础1知识](https://blog.csdn.net/sinat_28294665/article/details/122720465?spm=1001.2014.3001.5501)
+- [剖析一下“计算机网络”的世界](https://blog.csdn.net/hjlogzw/article/details/122581255?spm=1001.2014.3001.5502)
+
 
 
 ## 关于写作计划
